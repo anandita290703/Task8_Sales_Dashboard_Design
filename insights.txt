@@ -1,0 +1,4 @@
+1. The West region generated the highest total sales, with notable peaks in July and December.
+2. The Technology category outperformed others in terms of both sales and profit margins.
+3. Sales consistently increased towards the end of each quarter, suggesting seasonal trends.
+4. The Central region displayed the most stable monthly sales, with minimal fluctuations.
